@@ -13,7 +13,7 @@ requests:
 | requests | 2.22.0 |
 
 安装方法：
-> pip install pip install acfun-get
+> pip install acfun-get
 
 手动安装地址：
 > https://pypi.org/project/acfun-get/
